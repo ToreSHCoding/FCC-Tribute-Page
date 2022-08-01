@@ -1,0 +1,51 @@
+#main {
+  background-color: #1B3409;
+}
+#title {
+  text-align: center;
+  font-family: Arial;
+  color: #FE2712;
+  font-size: 40px;
+}
+p {
+  text-align: center;
+  font-family: Arial;
+  font-size: 20px;
+  color: #66B032;
+}
+
+#img-div {
+  background-color: #58B814;
+  text-align: center;
+}
+#image {
+  display: block;
+  max-width: 100%;;
+  height: auto;
+  padding-bottom: 10px;
+  padding-top: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+#img-caption {
+  padding-bottom: 10px;
+}
+#tribute-info {
+  background-color: #F7D7D4;
+  max-width: 710px; 
+  margin: 0 auto;
+  font-family: arials;
+}
+
+h2 {
+  text-align: center;
+  padding-top: 10px;
+}
+#quote {
+  font-style: italic;
+}
+
+#more-info{
+  text-align: center;
+  padding-bottom: 10px;
+}
