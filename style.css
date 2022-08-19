@@ -10,11 +10,12 @@
 #title {
   position: relative;
   text-align: center;
-  font-family: 'Times New Roman', Arial;
+  /* font-family: 'Times New Roman', Arial; */
   /* color: #FE2712; */
   color: #ffb99e;
-  font-size: 50px;
+  /* font-size: 50px; */
   margin-top: 15px;
+  font: 600 3.5em 'Raleway', sans-serif;
 }
 
 /* #wheat-img {
@@ -91,7 +92,7 @@ h2 {
 
 @media screen and (max-width: 600px) {
   #title {
-    font-size: 2.5rem;
+    font-size: 2.4rem;
   }
 
   #tribute-info {
